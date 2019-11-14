@@ -6,6 +6,10 @@
 Fintech Fix50 task was to build a UI for LifeSports to showcase how our organization would help with upward mobility in Charlotte. This task was built and launched on Heroku by a team of 5 people.
 https://siliconvalley-lifesport.herokuapp.com/
 
+### Youtube Link
+
+https://youtu.be/6a91ymVNykk
+
 # Prerequisites & Installation!
 ```
    1.   git clone the repository
