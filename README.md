@@ -32,7 +32,7 @@ https://youtu.be/6a91ymVNykk
 
 ## Authors
 
-Authors contributed to all back-end and front-end code to this project.All authors contributed to deploying
+Authors contributed to all back-end and front-end code to this project. All authors contributed to deploying
 
 | Name | Github Links |
 | ------ | ------ |
@@ -52,7 +52,7 @@ Authors contributed to all back-end and front-end code to this project.All autho
 License
 ----
 
-MIT [https://github.com/rtjohnson0/Fintech-Fix50/blob/master/LICENSE]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
 
