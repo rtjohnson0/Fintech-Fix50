@@ -1,5 +1,5 @@
 # Fintech Fix50 LifeSports
-[![Build Status](https://siliconvalley-lifesport.herokuapp.com/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 
