@@ -47,7 +47,7 @@ Authors contributed to all back-end and front-end code to this project.All autho
 License
 ----
 
-MIT [https://github.com/LaDaishaPettus/SiliconValley-Hackathon/blob/master/LICENSE]
+MIT [LICENSE]
 
 
 
