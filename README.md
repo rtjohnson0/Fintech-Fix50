@@ -48,7 +48,7 @@ Authors contributed to all back-end and front-end code to this project.All autho
 License
 ----
 
-MIT [LICENSE]
+MIT [https://github.com/rtjohnson0/Fintech-Fix50/blob/master/LICENSE]
 
 
 
